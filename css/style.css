@@ -1,0 +1,45 @@
+body {
+    background: url("assets/bg-pattern.jpeg") right top;
+    font-family: "serif";
+    font-size: 11pt;
+    font-weight: 300;
+	word-spacing: 5px;
+}
+
+.bg {
+    background-color: rgb(247, 161, 3);
+    border: 3px solid black;
+    border-radius: 10%;
+}
+
+img.guts {
+    border-radius: 50%;
+}
+
+img.dimension {
+    width: 100px;
+    height: 140px;
+    padding-bottom: 5px;
+}
+
+img.tough {
+    width: 210px;
+    height: 140px;
+    padding-bottom: 5px;
+}
+
+.width {
+    width: 90%;
+}
+
+li {
+    list-style-type: square
+}
+
+.padding-top {
+    padding-top: 5em;
+}
+
+.padding-top2 {
+    padding-top: 8em;
+}
